@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-👉**[Hosted via GitHub Pages:](https://akshay42github.github.io/PRODIGY_WD_04/)**  
+👉 **[View Live Site](https://akshay42github.github.io/PRODIGY_WD_04/)**
 
 ---
 
