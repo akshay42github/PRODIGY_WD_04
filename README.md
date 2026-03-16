@@ -7,8 +7,8 @@
 ## 🌐 Live Demo
 
 > **Hosted via GitHub Pages:**  
-> `https://YOUR-USERNAME.github.io/portfolio/`  
-> *(Replace `YOUR-USERNAME` with your actual GitHub username after deployment)*
+> https://akshay42github.github.io/PRODIGY_WD_04/ 
+
 
 ---
 
